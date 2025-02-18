@@ -1,0 +1,7 @@
+# Archivos de IntelliJ IDEA / Eclipse / NetBeans
+*.iml
+.idea/
+*.class
+bin/
+target/
+out/
